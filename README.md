@@ -327,8 +327,7 @@ This project is part of a graduation initiative for network security education.
 
 For issues, questions, or contributions:
 1. Check the [DOCKER_SETUP.md](DOCKER_SETUP.md) guide
-2. Review the [v0_plans/light-design.md](v0_plans/light-design.md) implementation plan
-3. Open an issue on GitHub
+2. Open an issue on GitHub
 
 ## Next Steps
 
