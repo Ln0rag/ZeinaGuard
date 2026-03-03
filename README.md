@@ -74,12 +74,10 @@ A modern, production-ready Wireless Intrusion Prevention System (WIPS) built wit
 
 ### Option 1: Docker (Recommended)
 ```bash
-# Clone and setup
-git clone <repository>
-cd zeinaguard-pro
-
-# Start all services
-docker-compose up -d
+git clone https://github.com/Ln0rag/ZeinaGuard.git
+cd ZeinaGuard/
+chmod +x ./scripts/start-docker.sh
+./scripts/start-docker.sh
 
 # Services will be available at:
 # - Dashboard: http://localhost:3000
