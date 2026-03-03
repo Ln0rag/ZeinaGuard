@@ -83,6 +83,10 @@ chmod +x ./scripts/start-docker.sh
 # - Dashboard: http://localhost:3000
 # - API: http://localhost:5000
 # - PgAdmin: http://localhost:5050
+
+# For exiting docker:
+docker-compose down
+docker-compose stop
 ```
 
 ### Option 2: Local Development
